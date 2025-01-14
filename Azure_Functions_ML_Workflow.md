@@ -9,7 +9,7 @@ Below is the high-level workflow for the Azure Functions ML pipelines:
 
 ![Workflow Diagram](media/Azure_Functions_ML.drawio.png)
 
-![Workflow Diagram](media/Azure_Functions_MLOPS.png")
+![Workflow Diagram](media/Azure_Functions_MLOPS.png)
 
 ### **Workflow Description:**
 
