@@ -1,6 +1,8 @@
 
 # Azure Machine Learning Solution Deployment Strategies
 
+[Azure Machine Learning Architecture Diagrams](https://learn.microsoft.com/en-us/azure/architecture/ai-ml/)
+
 ## **Table of Contents**
 1. [Overview](#overview)
 2. [Prerequisites](#prerequisites)
