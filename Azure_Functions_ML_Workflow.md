@@ -5,9 +5,11 @@ This document describes the **Azure Functions workflow for invoking machine lear
 
 ## **Architecture Overview**
 
-Below is the high-level workflow for the Azure Functions ML pipeline:
+Below is the high-level workflow for the Azure Functions ML pipelines:
 
 ![Workflow Diagram](media/Azure_Functions_ML.drawio.png)
+
+![Workflow Diagram](media/media\Azure_Functions_MLOPS.png")
 
 ### **Workflow Description:**
 
